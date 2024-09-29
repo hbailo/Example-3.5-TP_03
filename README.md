@@ -1,4 +1,4 @@
-# Utilización de clases BusIn y PortIn
+# Utilización de clases BusOut y PortOut
 
 ## Ventajas
 * Escritura simultánea.
