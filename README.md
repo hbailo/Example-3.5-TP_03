@@ -6,3 +6,4 @@
 
 ## Desventajas
 * Limitación en la cantidad de pines.
+* prueba
